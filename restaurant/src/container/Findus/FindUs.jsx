@@ -9,7 +9,7 @@ const FindUs = () => (
       <SubHeading title="Contact"/>
       <h1 className='headtext__cormorant' style={{ marginBottom: '3rem' }}>Find Us</h1>
       <div className='app__wrapper-content'>
-        <p className='p__opensans'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum deleniti corporis maiores repudiandae. Voluptas quidem nihil unde deserunt delectus inventore, accusamus, minima quaerat porro nesciunt, commodi vel perferendis nobis aliquid?</p>
+        <p className='p__opensans'>Our kitchen boutique is conveniently located in the heart of the city, nestled amidst vibrant culinary destinations. Whether you're a local or a traveler seeking culinary inspiration, our easily accessible location makes it simple to embark on a delightful journey of discovering the finest kitchen essentials. Visit us today and let your culinary aspirations come to life at Gusto Grill.</p>
         <p className='p__cormorant' style={{ color: '#DCCA87', margin: '2rem 0'}}>Open Hours</p>
         <p className='p__opensans'>Mon - Fri: 10:00 am - 03:00 am</p>
         <p className='p__opensans'>Sat - Sun: 10:00 am - 03:00 am</p>

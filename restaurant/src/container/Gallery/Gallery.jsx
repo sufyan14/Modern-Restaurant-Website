@@ -35,8 +35,7 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
-          anflkjbsajfhslfknsafbkjsahfsalfnlksahflsaknashoiafbsaiucsacihasodsadbakcjiu
-          ashoihasda agdsiugsd aigsdiusagofasbdjkwigakjf
+        Immerse yourself in our captivating photo gallery, showcasing mouthwatering dishes that will ignite your culinary inspiration.
         </p>
         <button type="button" className="custom__button">
           View More
